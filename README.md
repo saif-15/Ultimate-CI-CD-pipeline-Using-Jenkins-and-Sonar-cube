@@ -1,8 +1,15 @@
 # Ultimate-CI-CD-pipeline-Using-Jenkins-and-Sonar-cube
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
 
-![argo](https://github.com/saif-15/Ultimate-CI-CD-pipeline-Using-Jenkins-and-Sonar-cube/assets/46129194/ee363fdd-5dbc-420b-b6f2-e03d401287e4)
+![image](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
+![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![image](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
 
+![argo](https://github.com/saif-15/Ultimate-CI-CD-pipeline-Using-Jenkins-and-Sonar-cube/assets/46129194/ee363fdd-5dbc-420b-b6f2-e03d401287e4)
 
 Create a EC2 instance t2.large in this case because we have to deploy both jenkins and sonarcube server
 
